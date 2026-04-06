@@ -1,0 +1,26 @@
+{
+  "siteName": "CCTV Live",
+  "author": "Fik Project",
+  "defaultCity": "jakarta",
+  "featuredCameras": 8,
+  "video": {
+    "showFeaturedLive": true
+  },
+  "categories": [
+    {
+      "id": "traffic",
+      "name": "Traffic",
+      "description": "Traffic monitoring cameras"
+    },
+    {
+      "id": "flood",
+      "name": "Flood Monitoring",
+      "description": "Water level and flood detection"
+    },
+    {
+      "id": "security",
+      "name": "Security",
+      "description": "Public security cameras"
+    }
+  ]
+}
